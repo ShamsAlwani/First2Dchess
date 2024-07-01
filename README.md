@@ -1,0 +1,1 @@
+n the start of my programming resume, I started off by building a simple chess project in Visual Studio Code 2. This was done through a guide and respiratory from another GitHub user and I will continue to make more projects soon.
